@@ -60,3 +60,10 @@ Hello world. I'm a sophomore at **EEEP Amélia Figueiredo de Lavor** High School
   />
 
 </p>
+
+
+<div align="center"> 
+   <a href="https://instagram.com/ale._.skkj" alvo="_em branco"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logotipo=instagram&logoColor=branco" alvo="_em branco"></a>
+  <a href = "mailto:alessandrosouzacosta85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=branco" alvo="_em branco"></a>
+  
+</div>
