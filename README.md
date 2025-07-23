@@ -1,36 +1,36 @@
-# ?? ALessandro
+# 集中 Alessandro
 
-**`Desenvolvedor Sistema`**
+**`System Developer`**
 **`Back-end`**
 **`Python`**
-**`Iniciante`**
+**`Beginner`**
 
 
-Olá, mundo. Estou no segundo ano da **EEEP Amélia Figueiredo de Lavor** Ensino Médio, estudando **Desenvolvimento Sistemas**. . . Meu objetivo é me tornar um **desenvolvedor back-end** usando **Python** como minha principal língua de programação.
+Hello world. I'm a sophomore at **EEEP Amélia Figueiredo de Lavor** High School, studying **Systems Development**. My goal is to become a **back-end developer** using **Python** as my primary programming language.
 
 
-<p alinhar="esquerda">
-    <!-- Visualizações de perfil-->
-    <a href="https://github.com/Alessandrojj" alvo="_em branco">
-    <img src="https://komarev.com/ghpvc/?username=Alessandrojj&rótulo=Perfil%20views&cor=5e81ac&estilo=para-o-emblema&logo=github&logoColor=branco&Cor=preto" 
-    <a href="https://github.com/Alessandrojj?tab=repositories&classificar=stargazers" alvo="_em branco">
-    <img alt="Estrelas Totais" título="Total de estrelas no GitHub"
-        src="https://img.shields.io/github/stars/Alessandrojj?style=for-the-badge&rótulo=Estrelas&cor=bf616a&logotipo=github" /></a>
-    <!-- Seguidores com o logotipo do GitHub - >
- <a href="https://github.com/Alessandrojj?tab=followers" alvo="_em branco">
- <img alt="Seguidores" título="Siga-me no GitHub"
- src="https://img.shields.io/github/followers/Alessandrojj?style=for-the-badge&rótulo=Seguidores&cor=5e81ac&logotipo=github"/>
- </a>
- </a>
+<p align="left">
+    <!-- Profile views-->
+    <a href="https://github.com/Alessandrojj" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Alessandrojj&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
+    <a href="https://github.com/Alessandrojj?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub"
+        src="https://img.shields.io/github/stars/Alessandrojj?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+    <!-- Followers with GitHub Logo -->
+    <a href="https://github.com/Alessandrojj?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub"
+        src="https://img.shields.io/github/followers/Alessandrojj?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+    </a>
+    </a>
 </p>
 
 ---
 
-<h3 alinhar="centro">📚 Tecnologias pelas quais passei </h3>
+<h3 align="center">📚 Technologies I've been through </h3>
 
 <br>
 
-<div alinhar="centro">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,html,css,github" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,pycharm,figma,windows,discord" /><br>
 
@@ -41,22 +41,22 @@ Olá, mundo. Estou no segundo ano da **EEEP Amélia Figueiredo de Lavor** Ensino
 
 ---
 
-<h3 alinhar="esquerda">📊 Estatísticas </h3>
+<h3 align="left">📊 Statistics </h3>
 
 <br>
 
-<p alinhar="esquerda">
+<p align="left">
   <img 
-    alt="Estatísticas do GitHub" 
-    alta="200" 
-    estilo="preenchimento-direito: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Alessandrojj&mostrar_icons=verdadeiro&tema=escuro&incluir_all_commits=true&localidade=en" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Alessandrojj&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
   <img 
-    alt="Estatísticas do GitHub" 
-    alta="200"
-    estilo="preenchimento-direito: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrojj&tema=escuro&layout=compacto" 
+    alt="GitHub Stats" 
+    height="200"
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessandrojj&theme=dark&layout=compact" 
   />
 
 </p>
